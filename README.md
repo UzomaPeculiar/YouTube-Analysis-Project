@@ -15,6 +15,9 @@
 ## Project Overview
 This project provides an in-depth analysis of YouTube streamers to uncover insights into performance metrics, audience distribution, content trends, brand collaborations, and potential recommendation strategies. By leveraging statistical and visual analysis, the goal is to understand the characteristics that define top-performing streamers and inform better content recommendation systems for platform users and marketers.
 
+![download](https://github.com/user-attachments/assets/b4c81001-30a3-494c-b9e8-25ad4b088211)
+
+
 ## Data Sources
 The dataset used in this project, `youtubers_df.csv`, includes detailed information on YouTube streamers, such as:
 - Number of subscribers, visits, likes, and comments
